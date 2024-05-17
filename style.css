@@ -1,0 +1,19 @@
+.container{
+
+    border: 2px solid black;
+    border-right: 0%;
+    width: 250px;
+    border-radius: 10px;
+    
+       
+    }
+    .btn{
+        width: 170px;
+        background-color: rgb(105, 6, 6);
+        color:white;
+        justify-content: center;
+    }
+    .btn:hover{
+        background-color: black;
+        color:white
+    }
